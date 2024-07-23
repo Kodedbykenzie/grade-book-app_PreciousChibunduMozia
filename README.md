@@ -12,7 +12,7 @@ Facilitates student registration for courses along with the grades they obtained
 ##### List All Students: Displays a list of all students along with their email and GPA.
 ##### Exit
 
-Getting Started
+## Getting Started
 ```bash
 
 #Clone the repository:
@@ -29,8 +29,8 @@ python main.py
 ## Contributing
 If you wish to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
 For any questions or suggestions, please contact chibundumozia@gmail.com.
